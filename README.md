@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-A mobile for annotating Part-of-speech (POS) datasets. The application uses a web API to fetch the sentences from a database hosted in the cloud. A logged-in annotator is presented with a drop-down list of tag options for a selected word. The tag and word pair are stored in the database alongside their sentence ID. Using the application, Chichewa experts do the annotation process(more than one annotator annotates each sentence); this means that each word has multiple tags; we apply the Boyer-Moore majority voting method to determine the final tag of the word. The voting process replaces the process of verification and validation, which requires a lot of resources. We used this application we annotated 65,787 words into 17 classes.
+A mobile for annotating Part-of-speech (POS) datasets. The application uses a web API to fetch the sentences from a database hosted in the cloud. A logged-in annotator is presented with a drop-down list of tag options for a selected word. The tag and word pair are stored in the database alongside their sentence ID. Using the application, Chichewa experts do the annotation process(more than one annotator annotates each sentence); this means that each word has multiple tags; we apply the Boyer-Moore majority voting method to determine the final tag of the word. The voting process replaces the process of verification and validation, which requires a lot of resources. We used this application we annotated 65,787 words into 17 classes.For now, the dataset is available on request, and will be made fully public when a the thesis(which this project is part of , is defended) 
 <br />
 
 
