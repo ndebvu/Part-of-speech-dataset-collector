@@ -29,22 +29,7 @@ Home screen for annotators: <br/>
 <br />Confirmation of tagging word: <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/interface_confirm%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Summery of the created dataset:  <br/>
-<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Pos_visual%20(2).png" height="50%" width="40%" alt="dataset visualisation"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
