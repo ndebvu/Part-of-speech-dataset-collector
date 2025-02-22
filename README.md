@@ -23,17 +23,15 @@ A mobile for annotating Part-of-speech (POS) datasets. The application uses a we
 Home screen for annotators: <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_landing%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Select word to tag:  <br/>
+<br />Selection of word:  <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_selected.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
+<br />Confirmation of tagging word: <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/interface_confirm%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Summery of the created dataset:  <br/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Pos_visual%20(2).png" height="50%" width="40%" alt="dataset visualisation"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
