@@ -24,8 +24,8 @@ Home screen for annotators: <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_landing%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+Select word to tag:  <br/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_selected.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
