@@ -30,6 +30,10 @@ Home screen for annotators: <br/>
 <img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/interface_confirm%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
+<br />Virsualisation of the dataset: <br/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/interface_confirm%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 <!--
  ```diff
