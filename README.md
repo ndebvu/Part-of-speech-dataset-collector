@@ -25,11 +25,11 @@ Home screen for annotators: <br/>
 <br />
 <br />
 Select word to tag:  <br/>
-<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_selected.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_selected.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/interface_confirm%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
