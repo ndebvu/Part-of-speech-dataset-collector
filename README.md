@@ -21,7 +21,7 @@ A mobile for annotating Part-of-speech (POS) datasets. The application uses a we
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_landing%20(1).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/Interface_landing%20(1).png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
